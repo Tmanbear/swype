@@ -1,5 +1,5 @@
 #/bin/bash
 sudo su
-cd /
+sudo cd /
 mkdir swype
 sudo cp -r -v users swype
